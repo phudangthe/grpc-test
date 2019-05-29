@@ -1,0 +1,9 @@
+D:\Dev\Lowell\Dev\Main\TestgRPCAuthentication\TestgRPCAuthentication\TestgRPCAuthentication.GrpcProto\bin\Debug\netcoreapp2.1\TestgRPCAuthentication.GrpcProto.deps.json
+D:\Dev\Lowell\Dev\Main\TestgRPCAuthentication\TestgRPCAuthentication\TestgRPCAuthentication.GrpcProto\bin\Debug\netcoreapp2.1\TestgRPCAuthentication.GrpcProto.dll
+D:\Dev\Lowell\Dev\Main\TestgRPCAuthentication\TestgRPCAuthentication\TestgRPCAuthentication.GrpcProto\obj\Debug\netcoreapp2.1\TestgRPCAuthentication.GrpcProto.csproj.CoreCompileInputs.cache
+D:\Dev\Lowell\Dev\Main\TestgRPCAuthentication\TestgRPCAuthentication\TestgRPCAuthentication.GrpcProto\obj\Debug\netcoreapp2.1\TestgRPCAuthentication.GrpcProto.AssemblyInfoInputs.cache
+D:\Dev\Lowell\Dev\Main\TestgRPCAuthentication\TestgRPCAuthentication\TestgRPCAuthentication.GrpcProto\obj\Debug\netcoreapp2.1\TestgRPCAuthentication.GrpcProto.AssemblyInfo.cs
+D:\Dev\Lowell\Dev\Main\TestgRPCAuthentication\TestgRPCAuthentication\TestgRPCAuthentication.GrpcProto\bin\Debug\netcoreapp2.1\TestgRPCAuthentication.GrpcProto.pdb
+D:\Dev\Lowell\Dev\Main\TestgRPCAuthentication\TestgRPCAuthentication\TestgRPCAuthentication.GrpcProto\obj\Debug\netcoreapp2.1\TestgRPCAuthentication.GrpcProto.dll
+D:\Dev\Lowell\Dev\Main\TestgRPCAuthentication\TestgRPCAuthentication\TestgRPCAuthentication.GrpcProto\obj\Debug\netcoreapp2.1\TestgRPCAuthentication.GrpcProto.pdb
+D:\Dev\Lowell\Dev\Main\TestgRPCAuthentication\TestgRPCAuthentication\TestgRPCAuthentication.GrpcProto\obj\Debug\netcoreapp2.1\TestgRPCAuthentication.GrpcProto.csprojAssemblyReference.cache

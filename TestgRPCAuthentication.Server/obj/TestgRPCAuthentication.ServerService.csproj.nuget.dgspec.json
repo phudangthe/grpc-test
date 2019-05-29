@@ -1,0 +1,151 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Dev\\Lowell\\Dev\\Main\\TestgRPCAuthentication\\TestgRPCAuthentication\\TestgRPCAuthentication.Server\\TestgRPCAuthentication.ServerService.csproj": {}
+  },
+  "projects": {
+    "D:\\Dev\\Lowell\\Dev\\Main\\TestgRPCAuthentication\\TestgRPCAuthentication\\TestgRPCAuthentication.GrpcProto\\TestgRPCAuthentication.GrpcProto.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Dev\\Lowell\\Dev\\Main\\TestgRPCAuthentication\\TestgRPCAuthentication\\TestgRPCAuthentication.GrpcProto\\TestgRPCAuthentication.GrpcProto.csproj",
+        "projectName": "TestgRPCAuthentication.GrpcProto",
+        "projectPath": "D:\\Dev\\Lowell\\Dev\\Main\\TestgRPCAuthentication\\TestgRPCAuthentication\\TestgRPCAuthentication.GrpcProto\\TestgRPCAuthentication.GrpcProto.csproj",
+        "packagesPath": "C:\\Users\\phudang\\.nuget\\packages\\",
+        "outputPath": "D:\\Dev\\Lowell\\Dev\\Main\\TestgRPCAuthentication\\TestgRPCAuthentication\\TestgRPCAuthentication.GrpcProto\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\phudang\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://artifactory.lowellgroup.de/api/nuget/v3/nuget-lowell-dach-snapshot-local": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Google.Protobuf": {
+              "target": "Package",
+              "version": "[3.8.0-rc.1, )"
+            },
+            "Grpc": {
+              "target": "Package",
+              "version": "[1.21.0, )"
+            },
+            "Grpc.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.21.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "D:\\Dev\\Lowell\\Dev\\Main\\TestgRPCAuthentication\\TestgRPCAuthentication\\TestgRPCAuthentication.Server\\TestgRPCAuthentication.ServerService.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Dev\\Lowell\\Dev\\Main\\TestgRPCAuthentication\\TestgRPCAuthentication\\TestgRPCAuthentication.Server\\TestgRPCAuthentication.ServerService.csproj",
+        "projectName": "TestgRPCAuthentication.ServerService",
+        "projectPath": "D:\\Dev\\Lowell\\Dev\\Main\\TestgRPCAuthentication\\TestgRPCAuthentication\\TestgRPCAuthentication.Server\\TestgRPCAuthentication.ServerService.csproj",
+        "packagesPath": "C:\\Users\\phudang\\.nuget\\packages\\",
+        "outputPath": "D:\\Dev\\Lowell\\Dev\\Main\\TestgRPCAuthentication\\TestgRPCAuthentication\\TestgRPCAuthentication.Server\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\phudang\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://artifactory.lowellgroup.de/api/nuget/v3/nuget-lowell-dach-snapshot-local": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "D:\\Dev\\Lowell\\Dev\\Main\\TestgRPCAuthentication\\TestgRPCAuthentication\\TestgRPCAuthentication.GrpcProto\\TestgRPCAuthentication.GrpcProto.csproj": {
+                "projectPath": "D:\\Dev\\Lowell\\Dev\\Main\\TestgRPCAuthentication\\TestgRPCAuthentication\\TestgRPCAuthentication.GrpcProto\\TestgRPCAuthentication.GrpcProto.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Grpc": {
+              "target": "Package",
+              "version": "[1.21.0, )"
+            },
+            "Grpc.Core": {
+              "target": "Package",
+              "version": "[1.21.0, )"
+            },
+            "IdentityServer4.AccessTokenValidation": {
+              "target": "Package",
+              "version": "[3.0.0-preview.2, )"
+            },
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.1, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.2, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

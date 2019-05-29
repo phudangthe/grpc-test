@@ -1,0 +1,14 @@
+D:\Dev\Lowell\Dev\Main\TestgRPCAuthentication\TestgRPCAuthentication\TestgRPCAuthentication.ClientApp1\bin\Debug\netcoreapp2.1\TestgRPCAuthentication.ClientApp1.deps.json
+D:\Dev\Lowell\Dev\Main\TestgRPCAuthentication\TestgRPCAuthentication\TestgRPCAuthentication.ClientApp1\bin\Debug\netcoreapp2.1\TestgRPCAuthentication.ClientApp1.runtimeconfig.json
+D:\Dev\Lowell\Dev\Main\TestgRPCAuthentication\TestgRPCAuthentication\TestgRPCAuthentication.ClientApp1\bin\Debug\netcoreapp2.1\TestgRPCAuthentication.ClientApp1.runtimeconfig.dev.json
+D:\Dev\Lowell\Dev\Main\TestgRPCAuthentication\TestgRPCAuthentication\TestgRPCAuthentication.ClientApp1\bin\Debug\netcoreapp2.1\TestgRPCAuthentication.ClientApp1.dll
+D:\Dev\Lowell\Dev\Main\TestgRPCAuthentication\TestgRPCAuthentication\TestgRPCAuthentication.ClientApp1\obj\Debug\netcoreapp2.1\TestgRPCAuthentication.ClientApp1.csproj.CoreCompileInputs.cache
+D:\Dev\Lowell\Dev\Main\TestgRPCAuthentication\TestgRPCAuthentication\TestgRPCAuthentication.ClientApp1\obj\Debug\netcoreapp2.1\TestgRPCAuthentication.ClientApp1.AssemblyInfoInputs.cache
+D:\Dev\Lowell\Dev\Main\TestgRPCAuthentication\TestgRPCAuthentication\TestgRPCAuthentication.ClientApp1\obj\Debug\netcoreapp2.1\TestgRPCAuthentication.ClientApp1.AssemblyInfo.cs
+D:\Dev\Lowell\Dev\Main\TestgRPCAuthentication\TestgRPCAuthentication\TestgRPCAuthentication.ClientApp1\obj\Debug\netcoreapp2.1\TestgRPCAuthentication.ClientApp1.csprojAssemblyReference.cache
+D:\Dev\Lowell\Dev\Main\TestgRPCAuthentication\TestgRPCAuthentication\TestgRPCAuthentication.ClientApp1\bin\Debug\netcoreapp2.1\TestgRPCAuthentication.ClientApp1.pdb
+D:\Dev\Lowell\Dev\Main\TestgRPCAuthentication\TestgRPCAuthentication\TestgRPCAuthentication.ClientApp1\bin\Debug\netcoreapp2.1\TestgRPCAuthentication.GrpcProto.dll
+D:\Dev\Lowell\Dev\Main\TestgRPCAuthentication\TestgRPCAuthentication\TestgRPCAuthentication.ClientApp1\bin\Debug\netcoreapp2.1\TestgRPCAuthentication.GrpcProto.pdb
+D:\Dev\Lowell\Dev\Main\TestgRPCAuthentication\TestgRPCAuthentication\TestgRPCAuthentication.ClientApp1\obj\Debug\netcoreapp2.1\TestgRPCAuthentication.ClientApp1.csproj.CopyComplete
+D:\Dev\Lowell\Dev\Main\TestgRPCAuthentication\TestgRPCAuthentication\TestgRPCAuthentication.ClientApp1\obj\Debug\netcoreapp2.1\TestgRPCAuthentication.ClientApp1.dll
+D:\Dev\Lowell\Dev\Main\TestgRPCAuthentication\TestgRPCAuthentication\TestgRPCAuthentication.ClientApp1\obj\Debug\netcoreapp2.1\TestgRPCAuthentication.ClientApp1.pdb

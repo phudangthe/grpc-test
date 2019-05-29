@@ -1,0 +1,17 @@
+D:\Dev\Lowell\Dev\Main\TestgRPCAuthentication\TestgRPCAuthentication\TestgRPCAuthentication.Server\bin\Debug\netcoreapp2.1\TestgRPCAuthentication.ServerService.deps.json
+D:\Dev\Lowell\Dev\Main\TestgRPCAuthentication\TestgRPCAuthentication\TestgRPCAuthentication.Server\bin\Debug\netcoreapp2.1\TestgRPCAuthentication.ServerService.runtimeconfig.json
+D:\Dev\Lowell\Dev\Main\TestgRPCAuthentication\TestgRPCAuthentication\TestgRPCAuthentication.Server\bin\Debug\netcoreapp2.1\TestgRPCAuthentication.ServerService.runtimeconfig.dev.json
+D:\Dev\Lowell\Dev\Main\TestgRPCAuthentication\TestgRPCAuthentication\TestgRPCAuthentication.Server\bin\Debug\netcoreapp2.1\TestgRPCAuthentication.ServerService.dll
+D:\Dev\Lowell\Dev\Main\TestgRPCAuthentication\TestgRPCAuthentication\TestgRPCAuthentication.Server\bin\Debug\netcoreapp2.1\TestgRPCAuthentication.ServerService.pdb
+D:\Dev\Lowell\Dev\Main\TestgRPCAuthentication\TestgRPCAuthentication\TestgRPCAuthentication.Server\bin\Debug\netcoreapp2.1\TestgRPCAuthentication.GrpcProto.dll
+D:\Dev\Lowell\Dev\Main\TestgRPCAuthentication\TestgRPCAuthentication\TestgRPCAuthentication.Server\bin\Debug\netcoreapp2.1\TestgRPCAuthentication.GrpcProto.pdb
+D:\Dev\Lowell\Dev\Main\TestgRPCAuthentication\TestgRPCAuthentication\TestgRPCAuthentication.Server\obj\Debug\netcoreapp2.1\TestgRPCAuthentication.ServerService.csprojAssemblyReference.cache
+D:\Dev\Lowell\Dev\Main\TestgRPCAuthentication\TestgRPCAuthentication\TestgRPCAuthentication.Server\obj\Debug\netcoreapp2.1\TestgRPCAuthentication.ServerService.csproj.CoreCompileInputs.cache
+D:\Dev\Lowell\Dev\Main\TestgRPCAuthentication\TestgRPCAuthentication\TestgRPCAuthentication.Server\obj\Debug\netcoreapp2.1\TestgRPCAuthentication.ServerService.RazorAssemblyInfo.cache
+D:\Dev\Lowell\Dev\Main\TestgRPCAuthentication\TestgRPCAuthentication\TestgRPCAuthentication.Server\obj\Debug\netcoreapp2.1\TestgRPCAuthentication.ServerService.RazorAssemblyInfo.cs
+D:\Dev\Lowell\Dev\Main\TestgRPCAuthentication\TestgRPCAuthentication\TestgRPCAuthentication.Server\obj\Debug\netcoreapp2.1\TestgRPCAuthentication.ServerService.AssemblyInfoInputs.cache
+D:\Dev\Lowell\Dev\Main\TestgRPCAuthentication\TestgRPCAuthentication\TestgRPCAuthentication.Server\obj\Debug\netcoreapp2.1\TestgRPCAuthentication.ServerService.AssemblyInfo.cs
+D:\Dev\Lowell\Dev\Main\TestgRPCAuthentication\TestgRPCAuthentication\TestgRPCAuthentication.Server\obj\Debug\netcoreapp2.1\TestgRPCAuthentication.ServerService.RazorTargetAssemblyInfo.cache
+D:\Dev\Lowell\Dev\Main\TestgRPCAuthentication\TestgRPCAuthentication\TestgRPCAuthentication.Server\obj\Debug\netcoreapp2.1\TestgRPCAuthentication.ServerService.csproj.CopyComplete
+D:\Dev\Lowell\Dev\Main\TestgRPCAuthentication\TestgRPCAuthentication\TestgRPCAuthentication.Server\obj\Debug\netcoreapp2.1\TestgRPCAuthentication.ServerService.dll
+D:\Dev\Lowell\Dev\Main\TestgRPCAuthentication\TestgRPCAuthentication\TestgRPCAuthentication.Server\obj\Debug\netcoreapp2.1\TestgRPCAuthentication.ServerService.pdb
